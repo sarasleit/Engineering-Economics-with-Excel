@@ -7,7 +7,7 @@ This repository contains academic projects completed as part of my Engineering E
 
 ## How to View the Projects
 
-- **Quick Preview:** Open the screenshots below to view the project results directly.
+- **Quick Preview:** Open the .PNG below to view the project results directly.
 - **Excel Files:** To view or interact with the original `.xlsx` files, download them and open them using [Microsoft Excel for the web](https://www.microsoft365.com/launch/excel) or the Excel desktop application.
 
 ## Projects
