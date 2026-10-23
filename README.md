@@ -1,3 +1,5 @@
+![Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 #  📊 Engineering-Economics-with-Excel
 A collection of Excel projects for engineering economic analysis, including cost comparison, loan repayment, and break-even analysis.
 
